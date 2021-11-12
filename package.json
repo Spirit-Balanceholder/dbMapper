@@ -1,0 +1,14 @@
+{
+  "name": "dbmapper",
+  "version": "1.0.0",
+  "description": "Maps out the tables of a specified database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Martin Klein Paste",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
